@@ -35,7 +35,7 @@ body > header > nav > ul > li > a {
 body > main {
     margin: auto;
     width: 60%;
-    display: flex;
+    /* display: flex; */
 }
 
 body > main > article > footer {
@@ -62,4 +62,12 @@ body > footer {
 
 #footer-container > section > nav > ul > li a {
     color: white;
+}
+
+#upper {
+    display: flex;
+}
+
+#latest-container > section {
+    display: flex;
 }
